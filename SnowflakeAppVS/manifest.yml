@@ -1,0 +1,4 @@
+manifest_version: 1
+artifacts:
+  setup_script: scripts/Setup_Vishal1.sql
+  readme: readme.md
